@@ -10,3 +10,4 @@
 
 ### Kotlin
 - 코루틴 비동기 처리
+- [Kotlin annotation](https://kotlinlang.org/docs/annotations.html#annotation-use-site-targets)
