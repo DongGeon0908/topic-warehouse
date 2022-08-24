@@ -16,6 +16,9 @@
 - [Kotlin annotation](https://kotlinlang.org/docs/annotations.html#annotation-use-site-targets)
 - kotest
 
+### Spring
+- Autoconfigure
+
 ### Etc
 - API endpoint
 - Curl
