@@ -22,3 +22,5 @@
 ### Etc
 - API endpoint
 - Curl
+- Gradle
+- Maven
