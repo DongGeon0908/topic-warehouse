@@ -11,6 +11,7 @@
 - Generic
 - ObjectMapper
 - 접근제한자, 생성자, SOLID	
+- Java의 컴파일 과정
 - Java Collection	
 - Java의 Object
 - java 메모리 구조		
@@ -24,6 +25,14 @@
 - mutable vs immutable
 - 인터페이스와 추상클래스
 - 스네이크, 파스칼, 카멜 케이스
+- 가비지 컬렉션
+- 클래스와 객체
+- 동기, 비동기
+- 생성자
+- 클래스 멤버 변수 초기화 순서
+- 리플렉션
+- error vs exception
+- 직렬화 vs 비직렬화
 
 ### Kotlin
 - 코루틴 비동기 처리
