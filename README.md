@@ -10,7 +10,9 @@
 - JVM 메모리 누수
 - Generic
 - ObjectMapper
-- 접근제한자, 생성자, SOLID	
+- 접근제한자
+- 생성자
+- SOLID	
 - Java의 컴파일 과정
 - Java Collection	
 - Java의 Object
@@ -28,7 +30,6 @@
 - 가비지 컬렉션
 - 클래스와 객체
 - 동기, 비동기
-- 생성자
 - 클래스 멤버 변수 초기화 순서
 - 리플렉션
 - error vs exception
