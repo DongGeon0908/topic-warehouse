@@ -49,7 +49,8 @@
 - spring vs EJB		
 - Spring MVC
 - 본인이 생각하는 스프링의 장점	
-- 트랜잭션
+- @Transactional
+- @Transactionaleventlistener
 - filter, intercepter, aop
 - spring vs spring boot
 - Dispatcher Servlet 
