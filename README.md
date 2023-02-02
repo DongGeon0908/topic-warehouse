@@ -114,6 +114,9 @@
 - java와 c언어의 차이
 - 이루고 싶은 목표
 
+### 아키텍쳐
+- 서비스 지향 아키텍처(SOA, Service Oriented Architecture)
+
 ### Algorithm
 - 정렬
 - 시간 복잡도, 공간 복잠도	
